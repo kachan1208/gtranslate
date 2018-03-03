@@ -11,5 +11,5 @@ Example:
         "github.com/test/gtranslate/gtranslate"
     )
     func main() {
-        fmt.Println(gtranslate.Translate("Привет", "ru", "ua")) //Привiт
+        fmt.Println(gtranslate.Translate("Привет", "ru", "ua")) //Вiтання
     }
